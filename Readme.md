@@ -10,7 +10,7 @@
 — Используйте поля «началоурока» и «конецурока» с типом данных TimeStamp.
 
 * Выполнение:
-![]()
+![ERD](https://github.com/Gregorian1489/DataBaseStarting/blob/main/startBD.png)
 
 * Комментарий:
 
